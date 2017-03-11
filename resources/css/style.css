@@ -1,0 +1,29 @@
+/* Header */
+body {
+  font-family: Georgia;
+}
+
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+}
+
+.logo {
+  color: MediumAquamarine;
+  display: inline;
+  flex-wrap: wrap;
+}
+
+.logo #title {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.menu {
+  display: inline-block;
+  flex-wrap: wrap;
+}
